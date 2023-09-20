@@ -37,8 +37,10 @@ python main.py
 Input Image: sample_image.jpg
 
 ## Output:
-Copy code
-Detected Number Plate: ABC1234
+Copy code:
+
+Detected Number Plate: ABC1234 
+
 Details Updated in data.csv
 
 ## Note
